@@ -29,7 +29,7 @@ I enjoy solving **real-world mapping challenges** and improving geospatial data 
 Created a **100m buffer around water bodies** and intersected with building footprints to identify at-risk structures.  
 **Skills:** buffering, intersection, DEM integration, analysis  
 **Folder:** `projects/flood-risk-analysis/Shebshi Hills Adamawa.jpeg`  
-**Preview:** ![Flood Map](images/flood-map.png)
+**Preview:** ![Flood Map](projects/flood-risk-analysis/Shebshi Hills Adamawa.jpeg)
 
 ---
 
